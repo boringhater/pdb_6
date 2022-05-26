@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPApp", "EPApp\EPApp.csproj", "{2BCE28DD-D724-4CF2-9423-61293E988A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCE28DD-D724-4CF2-9423-61293E988A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCE28DD-D724-4CF2-9423-61293E988A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCE28DD-D724-4CF2-9423-61293E988A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCE28DD-D724-4CF2-9423-61293E988A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447CDC94-8445-42E1-866B-17266884F40B}
+	EndGlobalSection
+EndGlobal
